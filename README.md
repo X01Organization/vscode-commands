@@ -1,2 +1,2 @@
 # vscode-commands
-list common vscode commands
+common vscode commands
