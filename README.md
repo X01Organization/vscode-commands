@@ -1,2 +1,2 @@
 # vscode-commands
-execute command in vscode
+list common vscode commands
